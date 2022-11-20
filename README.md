@@ -1,3 +1,2 @@
-
-# Python1
+# Python2
 ![Screenshot](screenshot.png)
